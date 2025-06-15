@@ -1,0 +1,142 @@
+html {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  font-size: 32px;
+  font-weight: 800;
+}
+h2 {
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  font-size: 24px;
+  font-weight: 800;
+}
+p {
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.title-text {
+  line-height: 8px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.title-text2 {
+  line-height: 8px;
+  font-weight: 500;
+  font-size: 18px;
+  margin-bottom: 100px;
+}
+.title-text3{
+  text-align: left;
+  line-height: 10px;
+  font-family: cursive;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0px 0px 50px 18px;
+}
+.title-text3-span {
+  color: blueviolet;
+}
+.title-text4{
+  text-align: left;
+  line-height: 24px;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 40px 0px 24px 18px;
+}
+.packages {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+.package {
+  display: inline-block;
+  color: blue;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  
+}
+.cost {
+  margin-left: 60px;
+  margin-top: 24px;
+  margin-bottom: 0px;
+  font-weight: 400;
+  font-size: 14px;
+}
+.tour {
+  margin-left: 60px;
+  margin-top: 6px;
+  margin-bottom: 24px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.bright-travel {
+  color: rgb(61, 111, 226);
+  font-weight:700;
+  font-family: cursive;
+  font-size: 22px;
+}
+.a {
+  font-size: 18px;
+  line-height: 40px;
+  font-family: cursive;
+}
+.figcaption {
+  text-align: center;
+  line-height: 10px;
+  font-family: cursive;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0px 0px 100px 60px;
+}
+.italy-div {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+.italy-img {
+  width: 310px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 20px;
+}
+.amsterdam-div {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+.amsterdam-img {
+  width: 310px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 20px;
+}
+.belgium-div {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+.belgium-img {
+  width: 310px;
+  height: 500px;
+  object-fit: cover;
+  object-position: right;
+  margin-bottom: 20px;
+}
